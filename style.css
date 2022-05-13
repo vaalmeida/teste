@@ -1,0 +1,63 @@
+body{
+    background-color: blueviolet;
+
+}
+ .wrapper{
+     width: 100%;
+     height: 100%;
+     background:#123abc;
+     position: absolute;
+     left: 0;
+     top: 0;
+
+}
+ .cinza{
+     width: 100%;
+     height: 15%;
+     background: #03a6f1;
+     left: 0;
+     top: 0;
+     position: relative;
+
+}
+.amarelo{
+    width: 100%;
+    height: 100%;
+    background: #f70288fd;
+    left: 0;
+    top: 0;
+    position: relative;
+
+}
+.azul{
+    width: 10%;
+    height: 85%;
+    background: #f3f707;
+    left: 0;
+    top: 0;
+    position: relative;
+
+}
+.verde{
+    width: 90%;
+    height: 85%;
+    background-color: aqua;
+    left: 0;
+    top: 15%;
+    position: absolute;
+
+}
+.vermelho{
+    
+    width: 100%;
+    height: 5%;
+    background-color: rgb(67, 6, 182);
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+.text{
+    width: 70%;
+    position: relative;
+    margin-left: 1px;
+}
